@@ -79,6 +79,7 @@ ul {
     height: 100%;
     padding: 0px 10px;
     word-wrap: break-word;
+    overflow: hidden;
 }
 
 li p {
@@ -172,4 +173,5 @@ li .question:hover {
 
 .attribution a {
     color: hsl(0, 0%, 100%);
+    
 }
